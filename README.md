@@ -1,2 +1,0 @@
-# VestaTesting
-De functie van deze pagina is om links tussen het <a href="https://alexander-oei.github.io/VestaTesting/docs/pbl-2017-functioneel-ontwerp-vesta-3.0_3196_destination.pdf">Functioneel Ontwerp</a> de GeoDMS GUI te testen.
