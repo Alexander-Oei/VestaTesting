@@ -1,0 +1,1 @@
+De functie van deze pagina is om links tussen het Functioneel Ontwerp van het Vesta model en de GeoDMS GUI te testen.
